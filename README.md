@@ -2,7 +2,7 @@
 *Your personal digital wellbeing companion*
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1352992454177067091/1409246093924896810/banner.png?ex=68acae33&is=68ab5cb3&hm=7d359b7d2b12d685e39dc7527cbddec4489ad13ef1c633ece1c1594075c3b125&=&format=webp&quality=lossless" alt="ZenSlice Dashboard" width="700"/>
+  <img src="https://media.discordapp.net/attachments/1352992454177067091/1409246093924896810/banner.png?ex=68acae33&is=68ab5cb3&hm=7d359b7d2b12d685e39dc7527cbddec4489ad13ef1c633ece1c1594075c3b125&=&format=webp&quality=lossless" alt="ZenSlice Dashboard" width="700" style="border-radius: 8px; border:25px solid black;"/>
 </p>
 
 <p align="center">
@@ -76,6 +76,16 @@ It helps you:\
 | Clean Dashboard | Makes tracking your screen habits effortless |
 | Excel Export | Helps you analyze or archive your data with ease |
 | Lightweight | Uses minimal system resources and runs unobtrusively |
+
+<br>
+
+## 📸 Screenhots
+<p align="center">
+<img src="https://media.discordapp.net/attachments/1352992454177067091/1409247734745272502/Screenshot_2025-08-24_222254.png?ex=68acafba&is=68ab5e3a&hm=4af38f693e1581b6ea1099ac13d0514d71aefdf972f520c097619af9ff71ea8a&=&format=webp&quality=lossless&width=807&height=693" alt="ZenSlice Dashboard" width="500"/><br>
+<img src="https://media.discordapp.net/attachments/1352992454177067091/1409247735596716254/Screenshot_2025-08-24_223532.png?ex=68acafba&is=68ab5e3a&hm=16a05f9b044228e24180c0e4ffcf9370732e0a8815e3235e94d20e2754ac5bc9&=&format=webp&quality=lossless&width=807&height=371" alt="ZenSlice Dashboard" width="500"/><br>
+<img src="https://media.discordapp.net/attachments/1352992454177067091/1409247735319625838/Screenshot_2025-08-24_223541.png?ex=68acafba&is=68ab5e3a&hm=73ea1236145ce28b33d4561bd2c0f79b84ca5c63d25458dfbaa90b50add039ab&=&format=webp&quality=lossless&width=807&height=691" alt="ZenSlice Dashboard" width="500"/><br>
+<img src="https://media.discordapp.net/attachments/1352992454177067091/1409247735026159788/Screenshot_2025-08-24_223550.png?ex=68acafba&is=68ab5e3a&hm=a686a6c046c6cd7bdeb3e1b524a271cb680411e342cc48f4eb24cde5c508c5de&=&format=webp&quality=lossless&width=807&height=469" alt="ZenSlice Dashboard" width="500"/>
+</p>
 
 <br>
 
