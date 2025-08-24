@@ -2,7 +2,7 @@
 *Your personal digital wellbeing companion*
 
 <p align="center">
-  <img src="assets/dashboard.png" alt="ZenSlice Dashboard" width="700"/>
+  <img src="https://raw.githubusercontent.com/Pratham754/ZenSlice/refs/heads/main/banner.png?token=GHSAT0AAAAAADHW3RHGFOGOI3BYBBUIOXAS2FLKIAA" alt="ZenSlice Dashboard" width="700"/>
 </p>
 
 <p align="center">
