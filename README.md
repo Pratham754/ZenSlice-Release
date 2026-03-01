@@ -6,11 +6,23 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/downloads/Pratham754/ZenSlice-Release/total?style=for-the-badge&color=64B5F6&logo=github" />
+  <img src="https://img.shields.io/github/v/release/Pratham754/ZenSlice-Release?style=for-the-badge&color=81C784" />
+  <img src="https://img.shields.io/github/license/Pratham754/ZenSlice-Release?style=for-the-badge&color=FFB74D" />
+</p>
+
+<p align="center">
   <b>Track. Reflect. Balance.</b><br/>
   ZenSlice helps you understand your screen habits with beautiful dashboards & total privacy.
 </p>
 
-<br><br>
+<p align="center">
+  <a href="https://github.com/Pratham754/ZenSlice-Release/releases/latest">
+    <img src="https://img.shields.io/badge/Download_ZenSlice_v1.0.0-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+</p>
+
+<br>
 
 ## ✨ Features
 
