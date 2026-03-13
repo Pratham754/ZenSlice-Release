@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/Pratham754/ZenSlice-Release/releases/latest">
-    <img src="https://img.shields.io/badge/Download_ZenSlice_v1.0.0-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Download_ZenSlice_v1.0.1-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
 </p>
 
