@@ -1,0 +1,76 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* 🌿 ZenSlice Custom Brand Overrides */
+
+/* The top hero section */
+.page-header {
+  background-color: #FFDDC4;
+  background-image: linear-gradient(120deg, #FFDDC4, #FFB2A3);
+  border-bottom: 4px solid #f97316;
+}
+
+/* Hero text colors */
+.project-name, .project-tagline {
+  color: #5A4A42 !important;
+  text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.5);
+}
+
+/* Download buttons */
+.btn {
+  color: #5A4A42;
+  border: 2px solid #5A4A42;
+  background-color: rgba(255, 248, 240, 0.6);
+  font-weight: bold;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  color: #FFF8F0;
+  background-color: #5A4A42;
+  border-color: #5A4A42;
+  transform: scale(1.05);
+}
+
+/* Main body background and text */
+.main-content {
+  background-color: #FFF8F0;
+  color: #5A4A42;
+  font-size: 1.1rem;
+}
+
+/* Headings inside the README */
+h1, h2, h3, h4, h5, h6 {
+  color: #f97316;
+  border-bottom-color: #FFDDC4;
+}
+
+/* Links */
+a {
+  color: #60a5fa;
+  font-weight: 500;
+}
+
+a:hover {
+  color: #f97316;
+}
+
+/* Table styling for your features list */
+table th {
+  background-color: #FFDDC4;
+  color: #5A4A42;
+  border-color: #EBBC7C;
+}
+
+table td {
+  border-color: #EBBC7C;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #f8fafc;
+  color: #5A4A42;
+  border: 1px solid #FFDDC4;
+}
